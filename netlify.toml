@@ -1,0 +1,207 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/*"
+  to = "/en/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/en/"
+  to = "/en/index.html"
+  status = 200
+
+
+[[redirects]]
+  from = "/en/index"
+  to = "/en/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/en/about-us"
+  to = "/en/about-us.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/en/contact-us"
+  to = "/en/contact-us.html"
+  status = 200
+  force = true
+  
+[[redirects]]
+  from = "/en/products"
+  to = "/en/products.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/en/gallery"
+  to = "/en/gallery.html"
+  status = 200
+  force = true    
+
+
+
+
+[[redirects]]
+  from = "/ru/"
+  to = "/ru/index.html"
+  status = 200
+
+
+[[redirects]]
+  from = "/ru/about-us"
+  to = "/ru/about-us.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/ru/contact-us"
+  to = "/ru/contact-us.html"
+  status = 200
+  force = true
+  
+[[redirects]]
+  from = "/ru/products"
+  to = "/ru/products.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/ru/gallery"
+  to = "/ru/gallery.html"
+  status = 200
+  force = true   
+
+
+
+
+[[redirects]]
+  from = "/products/en/grilyato"
+  to = "/products/en/grilyato.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/en/gypsumarmstrong"
+  to = "/products/en/gypsumarmstrong.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/en/hexagon-wall-dekor"
+  to = "/products/en/hexagon-wall-dekor.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/en/l-profil"
+  to = "/products/en/l-profil.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/en/metalarmstrong"
+  to = "/products/en/metalarmstrong.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/en/slatceiling"
+  to = "/products/en/slatceiling.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/en/stringer"
+  to = "/products/en/stringer.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/en/suspension"
+  to = "/products/en/suspension.html"
+  status = 200
+  force = true  
+  
+[[redirects]]
+  from = "/products/en/t-profil"
+  to = "/products/en/t-profil.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/en/washingarmstrong"
+  to = "/products/en/washingarmstrong.html"
+  status = 200
+  force = true  
+
+
+
+
+
+
+[[redirects]]
+  from = "/products/ru/grilyato"
+  to = "/products/ru/grilyato.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/ru/gypsumarmstrong"
+  to = "/products/ru/gypsumarmstrong.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/ru/hexagon-wall-dekor"
+  to = "/products/ru/hexagon-wall-dekor.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/ru/l-profil"
+  to = "/products/ru/l-profil.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/ru/metalarmstrong"
+  to = "/products/ru/metalarmstrong.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/ru/slatceiling"
+  to = "/products/ru/slatceiling.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/ru/stringer"
+  to = "/products/ru/stringer.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/ru/suspension"
+  to = "/products/ru/suspension.html"
+  status = 200
+  force = true  
+  
+[[redirects]]
+  from = "/products/ru/t-profil"
+  to = "/products/ru/t-profil.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/products/ru/washingarmstrong"
+  to = "/products/ru/washingarmstrong.html"
+  status = 200
+  force = true  
+
+
+ 
